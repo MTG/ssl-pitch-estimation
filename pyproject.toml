@@ -1,0 +1,20 @@
+[project]
+name = "ssl-pitch-estimation"
+version = "0.1.0"
+description = "Dependencies for ssl-pitch-estimation"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "ipython>=9.10.0",
+    "ipywidgets>=8.1.8",
+    "matplotlib>=3.10.8",
+    "mirdata>=1.0.0",
+    "nnaudio>=0.3.2",
+    "numpy<2",
+    "sounddevice>=0.5.5",
+    "soundfile>=0.13.1",
+    "torch==2.1.2",
+    "torchaudio==2.1.2",
+    "umap-learn>=0.5.11",
+]
