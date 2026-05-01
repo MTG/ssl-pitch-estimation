@@ -1,6 +1,6 @@
 # SSL Pitch Estimation
 
-This repository provides a tutorial on a **simplified implementation of PESTO, a self-supervised model for pitch estimation** [1].
+This repository provides a tutorial on a **simplified implementation of PESTO, a self-supervised model for pitch estimation** [1]. It is mainly intended as a teaching material.
 
 The main tutorial can be accessed in the notebook `ssl-pitch-estimation-tutorial.ipynb`.
 
