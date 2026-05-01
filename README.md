@@ -4,14 +4,14 @@ This repository provides a tutorial on a **simplified implementation of PESTO, a
 
 The main tutorial can be accessed in the notebook `ssl-pitch-estimation-tutorial.ipynb`.
 
-## Running via Colab
+## Run in Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MTG/ssl-pitch-estimation/blob/main/ssl-pitch-estimation-tutorial.ipynb)
 
 Simply click the button above and be sure to run the install dependencies code cell provided.
 
 
-## Running Locally
+## Run Locally
 
 Clone the repository and install the dependencies listed in `pyproject.toml`
 
